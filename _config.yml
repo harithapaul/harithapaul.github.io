@@ -3,7 +3,7 @@ name: "Haritha Paul"
 title: "Haritha Paul"
 description: "Hi, I'm Haritha Paul. Welcome to my mindspace."
 logo: 'assets/images/logotrans.png'
-favicon: 'assets/images/logo_H1.jpg'
+favicon: 'assets/images/logotrans.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
@@ -14,14 +14,14 @@ email: harithapaul97@gmail.com
 
 # Authors
 authors:
-  sal:
+  haritha:
     name: Haritha
     display_name: Haritha
     gravatar: e33d66d6ab7986c4cf6f4d4e40e76583
     email: harithapaul97@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    web: 
+    twitter: https://twitter.com/haritha_97
+    description: "Software Engineer|Computer Science Undergrad|WeTech Qualcomm Global Scholar"
   
 # Plugins
 plugins:
