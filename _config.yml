@@ -7,7 +7,7 @@ favicon: 'assets/images/logotrans.png'
 baseurl: ''
 google_analytics: 'UA-132574461-1'
 disqus: 'demowebsite'
-mailchimp-list: 'http://eepurl.com/g5v6ab'
+mailchimp-list: 'https://github.us10.list-manage.com/subscribe/post?u=1697f0b5cd23b8e7c374b14a3&amp;id=2c3b883d09'
 include: ["_pages"]
 permalink: /:title/
 email: harithapaul97@gmail.com
