@@ -6,7 +6,7 @@ logo: 'assets/images/logotrans.png'
 favicon: 'assets/images/logotrans.png'
 baseurl: ''
 google_analytics: 'UA-132574461-1'
-disqus: 'demowebsite'
+disqus: 'haritha_paul'
 mailchimp-list: 'https://github.us10.list-manage.com/subscribe/post?u=1697f0b5cd23b8e7c374b14a3&amp;id=2c3b883d09'
 include: ["_pages"]
 permalink: /:title/
