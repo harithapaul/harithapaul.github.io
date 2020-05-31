@@ -5,9 +5,9 @@ description: "Hi, I'm Haritha Paul. Welcome to my mindspace."
 logo: 'assets/images/logotrans.png'
 favicon: 'assets/images/logotrans.png'
 baseurl: ''
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-132574461-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'http://eepurl.com/g5v6ab'
 include: ["_pages"]
 permalink: /:title/
 email: harithapaul97@gmail.com
@@ -18,7 +18,7 @@ authors:
     name: Haritha
     display_name: Haritha
     avatar: 'assets/images/avatar.png'
-    gravatar: e33d66d6ab7986c4cf6f4d4e40e76583
+    #gravatar: e33d66d6ab7986c4cf6f4d4e40e76583
     email: harithapaul97@gmail.com
     web: 
     twitter: https://twitter.com/haritha_97
