@@ -4,7 +4,7 @@ title: In Transit,but not yet delivered.!
 author: haritha
 categories: [ Life ]
 tags: [ Experiences ]
-image: /assets/images/intransit.jpg
+image: assets/images/intransit.jpg
 disqus: true
 ---
 

@@ -4,9 +4,7 @@ title: How to Solve Realtek Wifi Issue in Ubuntu and Arch Linux
 author: haritha
 categories: [ Technology ]
 tags: [ Hacks ]
-description: >
-  A tutorial to solve low range wifi issue during new installation or upgradation of Ubuntu and Arch Linux.
-image: /assets/images/wifiissue.jpg
+image: assets/images/wifiissue.jpg
 noindex: true
 disqus: true
 ---
