@@ -5,7 +5,6 @@ author: haritha
 categories: [ Technology ]
 tags: [ Hacks ]
 image: assets/images/wifiissue.jpg
-noindex: true
 disqus: true
 ---
 Ever experienced a weak wifi signal, which disconnects as you move your laptop away, when you recently installed your operating system? Didn't find the list of wifi connections in the wifi menu? Don't worry, you're in the right place.!
