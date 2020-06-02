@@ -6,6 +6,7 @@ categories: [ Technology ]
 tags: [ Hacks ]
 image: assets/images/wifiissue.jpg
 disqus: true
+toc: true
 ---
 Ever experienced a weak wifi signal, which disconnects as you move your laptop away, when you recently installed your operating system? Didn't find the list of wifi connections in the wifi menu? Don't worry, you're in the right place.!
 
@@ -27,13 +28,13 @@ Establish a network connection by using an Ethernet cable from your router or tu
 Type in the following commands.
 
 ```
- cd rtlwifi_new
+cd rtlwifi_new
 ```
 
 Now the directory is changed to the required driver file folder. In order to build and install the components in the driver file, type in the following.
 
 ```
- make
+make
 ```
 Wait for the processes to get finished. Enter the sudo commands below and give the necessary authentication password wherever required. Please note that rtl8723be is the name of my wifi driver. You can find yours by running the *lspci* command on the terminal. 
  
@@ -53,7 +54,7 @@ sudo iw dev wlo1 scan
 To make your settings permanent,
 
 ```
-`echo "options rtl8723be ant_sel=2" | sudo tee /etc/modprobe.d/50-rtl8723be.conf``
+echo "options rtl8723be ant_sel=2" | sudo tee /etc/modprobe.d/50-rtl8723be.conf
 ```
 # In Arch Linux
 
