@@ -26,8 +26,8 @@ I realized I didn’t even have a gcc compiler installed in my machine. Searchin
 #### Step 1: Install chocolatey
 
 Chocolatey is a package manager for windows that helps to install packages easily without the burden of downloading exe files and hitting numerous ‘nexts’.
-* Open Powershell in Administrator mode
-* Type following commands:
+- Open Powershell in Administrator mode
+- Type following commands:
 ```sh
 Set-ExecutionPolicy Unrestricted
 ```
@@ -42,7 +42,7 @@ choco install mingw
 ```
 
 ### Install Extension in VSCode
-Go to Extensions-> Install Code Runner (.run) and C/C++ extension by Microsoft.
+Go to Extensions-> **Install Code Runner (.run)** and **C/C++** extension by Microsoft.
 
 Type in your code snippet and hit the play button at top right corner.
 
